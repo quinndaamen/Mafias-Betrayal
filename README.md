@@ -40,5 +40,7 @@ This is the final version I made
 --
 
 ### Screenshots / Demo
-![Main Menu](Assets/mainMenu.png)  
+![Main Menu](Assets/mainMenu.png) 
+*The leaderbord of Mafia's Betrayal*
 ![Gameplay](Assets/gamePlay.png)
+*A small scene from the game*
