@@ -32,6 +32,13 @@ C# | Unity
 
 ---
 
+### Play the Game
+
+You can play the game I made: [My Game on Itch.io](https://quinny88.itch.io/mafias-betrayal).  
+This is the final version I made
+
+--
+
 ### Screenshots / Demo
 ![Main Menu](Assets/mainMenu.png)  
 ![Gameplay](Assets/gamePlay.png)
