@@ -33,5 +33,5 @@ C# | Unity
 ---
 
 ### Screenshots / Demo
-![Main Menu](Assets/screenshot1.png)  
+![Main Menu](Assets/Menu.png)  
 ![Gameplay](Assets/screenshot2.png)
